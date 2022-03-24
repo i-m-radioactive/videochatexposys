@@ -14,8 +14,7 @@
 ## Table of Contents
  
 * [How To Run](#usage) 
-* [ScreenShots](#demo) 
-* [Contact](#contact)
+* [Demo](#demo) 
 
 
 <!-- Prerequisites -->
