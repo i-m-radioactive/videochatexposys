@@ -22,6 +22,10 @@
 * Run npm install.
 * Add your firebase config details to Server/firebase.js. 
 * Run "npm run start" to start the app. 
+
+## How to run
+* Enter user name and give camera and mic permission.
+* Share the browser link with person you want to join the call.
  
 <!-- Demo -->
 ## Demo
